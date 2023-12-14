@@ -1,24 +1,24 @@
 {
-  "name": "@protonemedia/laravel-splade",
+  "name": "@tesomayn/laravel-splade",
   "version": "1.4.16",
   "description": "Laravel Splade: the magic of Inertia.js with the simplicity of Blade.",
   "private": false,
-  "author": "Pascal Baljet <pascal@protone.media>",
+  "author": "TesoMayn <me@TesoMayn.com> (https://TesoMayn.com)",
   "license": "MIT",
   "type": "module",
-  "main": "./dist/protone-media-laravel-splade.umd.cjs",
-  "module": "./dist/protone-media-laravel-splade.js",
+  "main": "./dist/laravel-splade.umd.cjs",
+  "module": "./dist/laravel-splade.js",
   "files": [
     "dist/CompilerErrorMessages*",
     "dist/jodit.css",
-    "dist/protone-media-laravel-splade.cjs",
-    "dist/protone-media-laravel-splade.js",
+    "dist/laravel-splade.cjs",
+    "dist/laravel-splade.js",
     "dist/style.css"
   ],
   "exports": {
     ".": {
-      "import": "./dist/protone-media-laravel-splade.js",
-      "require": "./dist/protone-media-laravel-splade.umd.cjs"
+      "import": "./dist/laravel-splade.js",
+      "require": "./dist/laravel-splade.umd.cjs"
     },
     "./dist/style.css": "./dist/style.css",
     "./dist/jodit.css": "./dist/jodit.css"

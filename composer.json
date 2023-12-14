@@ -1,5 +1,5 @@
 {
-    "name": "tesomayn/laravel-splade",
+    "name": "protonmedia/laravel-splade",
     "version": "1.0.0",
     "description": "Laravel Splade: the magic of Inertia.js with the simplicity of Blade.",
     "keywords": [

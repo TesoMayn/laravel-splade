@@ -1,22 +1,23 @@
 {
-    "name": "protonemedia/laravel-splade",
+    "name": "tesomayn/laravel-splade",
     "description": "Laravel Splade: the magic of Inertia.js with the simplicity of Blade.",
     "keywords": [
         "protonemedia",
         "laravel",
-        "laravel-splade"
+        "laravel-splade",
+        "tesomayn"
     ],
-    "homepage": "https://github.com/protonemedia/laravel-splade",
+    "homepage": "https://github.com/tesomayn/laravel-splade",
     "license": "MIT",
     "authors": [
         {
-            "name": "Pascal Baljet",
-            "email": "pascal@protone.media",
+            "name": "TesoMayn",
+            "email": "me@tesomayn.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^8.0 || ^8.1 || ^8.2",
+        "php": "^8.0 || ^8.1 || ^8.2 || ^8.3",
         "illuminate/contracts": "^9.41|^10.0"
     },
     "require-dev": {
